@@ -1,3 +1,5 @@
 {
-  "Dev"
+  "bypass_list": {
+      "Dev"
+    }
 }
